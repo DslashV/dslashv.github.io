@@ -6,3 +6,9 @@
 body {
     background-color: rgb(227, 150, 150);
 }
+
+.link {
+    background-color: red;
+    border: none;
+    color: rgb(112, 34, 34);
+}
