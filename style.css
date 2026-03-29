@@ -7,7 +7,7 @@ body {
     background-color: rgb(44, 200, 93);   
 }
 
-.link {
+link {
     border: none;
     color: rgb(133, 22, 22);
     font: bold;
